@@ -1,0 +1,22 @@
+#tutojs{
+    width:600px;
+    height:400px;
+    margin: auto;
+    border:1px solid #666;
+}
+#tutojs-player{
+    height:33px;
+    width:100%;
+    text-align:center;
+    background-color:#111;
+}
+.tutojs-bt{
+    background-color:#111;
+    border:1px solid #555;
+    color:#aaa;
+    cursor:pointer;
+    border-radius: 5px;
+    position:relative;
+    top:-10px;
+    margin: 0 10px;
+}
